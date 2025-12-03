@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: Mortgage Default Risk — Simple ML Notebook
+authors:
+  - family-names: Mavrommatis
+    given-names: Constantinos
+date-released: 2025-12-03
+message: If you use this project, please cite the repository.
+license: MIT
