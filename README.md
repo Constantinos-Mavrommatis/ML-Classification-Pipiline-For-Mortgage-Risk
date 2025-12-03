@@ -1,4 +1,4 @@
-# Binary Classification for Mortgage Default Risk — Minimal, Explainable ML
+# Machine Learning Binary Classification for Mortgage Default Risk
 
 End-to-end **binary classification** to predict mortgage **default vs. paid** with a clean, single-notebook workflow. The project demonstrates core classification skills: robust preprocessing (ColumnTransformer), **class-imbalance handling**, **cross-validated model comparison** (Logistic Regression, **SVM (RBF)**, and **Random Forest**) and **explainability**.  
 After benchmarking, we chose **Random Forest**: it matched SVM’s test performance (F1/accuracy) while offering clearer **feature importances** and smoother deployment on mixed numeric/categorical data.
