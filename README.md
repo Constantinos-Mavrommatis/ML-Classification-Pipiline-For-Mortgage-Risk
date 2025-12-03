@@ -7,10 +7,9 @@ After benchmarking, we chose **Random Forest**: it matched SVM’s test performa
 ---
 
 ## Why this project
-- Deliver a **validated, interpretable** model that flags **likely defaults** while minimizing false alarms.
-- Keep a **baseline→final** narrative (LogReg → Random Forest), demonstrate **hyperparameter tuning**, and provide **explainability** (feature importances).
-- Show **reproducibility**: deterministic splits, pinned deps, one‑command run.
-
+- To deliver a **validated, interpretable** model that flags **likely defaults** while minimizing false alarms.
+- To keep a **baseline→final** narrative (LogReg → Random Forest), demonstrate **hyperparameter tuning**, and provide **explainability** (feature importances).
+- To show **reproducibility**.
 ---
 
 ## Overview
