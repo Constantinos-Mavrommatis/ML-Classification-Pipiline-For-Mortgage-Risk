@@ -50,7 +50,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-Open the notebook and set `DATA_PATH = '../data/freddiemac.csv'` (keep the dataset private; don't commit it).
+Open the notebook and set `DATA_PATH = '../data/freddiemac.csv'`.
 
 ## Repo structure
 ```
